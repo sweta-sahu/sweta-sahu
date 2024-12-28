@@ -1,20 +1,11 @@
 ## Hi I'm Sweta Sahu 👋
 <p>Passionate graduate student in Computer Science Engineering with a specialization in AI/ML, blending academic excellence with 3 years of professional experience in software development. Dedicated to leveraging Machine Learning, Data Analysis, and API design to create innovative solutions and drive meaningful impact in the tech landscape.</p>
 
-<!--
-**sweta-sahu/sweta-sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 - 🔭 I.m currently pursuing Masters in Computer Science and Engineering (AI/ML specialization) from University at Buffalo
 - 🌱 I’m currently learning and exploring various Machine Learning and Deep Learning algorithms.
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: swetasahu2399@gmail.com
 - 😄 Pronouns: She/Her
 - 📄 Resume: <a href="https://drive.google.com/file/d/1w8LDmNsZyy-4uiVpJWDnvGucwidvmku_/view?usp=drive_link">Resume</a>
-<!-- - ⚡ Fun fact: ... -->
 
 ### 💼 Skills
 
