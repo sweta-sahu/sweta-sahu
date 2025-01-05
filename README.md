@@ -6,6 +6,7 @@
 - 📫 How to reach me: swetasahu2399@gmail.com
 - 😄 Pronouns: She/Her
 - 📄 Resume: <a href="https://drive.google.com/file/d/1w8LDmNsZyy-4uiVpJWDnvGucwidvmku_/view?usp=drive_link">Resume</a>
+- 📄 My website: <a href="https://sweta-sahu.github.io/Portfolio/">Portfolio | Sweta Sahu</a>
 
 ### 💼 Skills
 
