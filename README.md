@@ -8,8 +8,16 @@
 - 📄 Resume: [Resume](https://drive.google.com/file/d/1w8LDmNsZyy-4uiVpJWDnvGucwidvmku_/view?usp=drive_link)
 - 🌐 My website: [Portfolio | Sweta Sahu](https://sweta-sahu.github.io/Portfolio/)
 
+### 🚀 Key Technical Achievements
 
-### 💼 Skills
+- ⚙️ Architected AWS-powered ingestion pipeline with **IoT Core**, **Kinesis**, and **S3**, cutting latency by **33%**
+- 🧠 Fine-tuned **T5**, **DistilBERT**, and **LaBSE** for OCR and NLP tasks in health & customer analytics
+- 🧩 Engineered real-time sensor dashboards using **React + NodeJs**, enabling on-the-fly anomaly tracking
+- 🧪 Created end-to-end ML pipelines using **Amazon SageMaker**, **Docker**, and **EC2** for **MaterialsIn**, a Materials Informatics company, to automate the machine learning lifecycle, minimizing manual intervention and accelerating model deployment for churn and fare prediction tasks
+- 🗃️ Migrated **PostgreSQL** to **MongoDB**, improving query speed by **40%**
+- 🔐 Secured microservices with **Keycloak**, **Cognito**, and OAuth2
+
+## 💼 Skills
 
 #### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![YAML](https://img.shields.io/badge/-YAML-000000?logo=yaml&logoColor=white)
@@ -24,24 +32,29 @@
 ![Keycloak](https://img.shields.io/badge/-Keycloak-0071C1?logo=keycloak&logoColor=white) ![AWS Cognito](https://img.shields.io/badge/-AWS%20Cognito-512888?logo=amazonaws&logoColor=white)
 
 #### 🛠️ DevOps and Deployment
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![AWS EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonaws&logoColor=white) ![AWS ECR](https://img.shields.io/badge/-ECR-FF9900?logo=amazonaws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?logo=awslambda&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white) ![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?logo=amazonaws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
 
 #### 🌐 Cloud Services
-
-![AWS S3](https://img.shields.io/badge/-S3-569A31?logo=amazonaws&logoColor=white) ![AWS IAM](https://img.shields.io/badge/-IAM-232F3E?logo=amazonaws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/-Kinesis-FF9900?logo=amazonkinesis&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/-CloudTrail-232F3E?logo=amazonaws&logoColor=white) ![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?logo=amazonaws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-SageMaker-4B612C?logo=amazonaws&logoColor=white) ![AWS IoT Core](https://img.shields.io/badge/-IoT%20Core-232F3E?logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazonaws&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?logo=amazonaws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?logo=amazonaws&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-232F3E?logo=amazonaws&logoColor=white) ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?logo=amazonaws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-4B612C?logo=amazonaws&logoColor=white) ![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-232F3E?logo=amazonaws&logoColor=white)
 
 
 #### 📊 Big Data Tools  
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)
 
+## 📊 GitHub Activity & Highlights
 
-## 📊 GitHub Stats
+<div align="center">
 
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=sweta-sahu&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sweta-sahu&theme=tokyonight&hide_border=true" height="150"/>
+</a>
 
-<!-- GitHub Stats -->
-[![Sweta’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sweta-sahu&show_icons=true&hide_border=true&theme=vision-friendly-dark)](https://github.com/sweta-sahu)
+<a href="https://github.com/sweta-sahu">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweta-sahu&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
+</a>
 
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-sahu&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/sweta-sahu)
+<a href="https://github.com/sweta-sahu">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-sahu&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+</a>
+
+</div>
