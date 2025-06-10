@@ -13,7 +13,7 @@
 - ⚙️ Architected AWS-powered ingestion pipeline with **IoT Core**, **Kinesis**, and **S3**, cutting latency by **33%**
 - 🧠 Fine-tuned **T5**, **DistilBERT**, and **LaBSE** for OCR and NLP tasks in health & customer analytics
 - 🧩 Engineered real-time sensor dashboards using **React + NodeJs**, enabling on-the-fly anomaly tracking
-- 🧪 Created end-to-end ML pipelines using **Amazon SageMaker**, **Docker**, and **EC2** for **MaterialsIn**, a Materials Informatics company, to automate the machine learning lifecycle, minimizing manual intervention and accelerating model deployment for churn and fare prediction tasks
+- 🧪 Created end-to-end ML pipelines using **Amazon SageMaker**, **Docker**, and **EC2** for **MaterialsIn**, a Materials Informatics company, to automate the machine learning lifecycle, minimizing manual intervention and accelerating model deployment.
 - 🗃️ Migrated **PostgreSQL** to **MongoDB**, improving query speed by **40%**
 - 🔐 Secured microservices with **Keycloak**, **Cognito**, and OAuth2
 
