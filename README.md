@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning and exploring various Machine Learning and Deep Learning algorithms
 - 📫 How to reach me: swetasahu2399@gmail.com
 - 😄 Pronouns: She/Her
-- 📄 Resume: [Resume](https://drive.google.com/file/d/1w8LDmNsZyy-4uiVpJWDnvGucwidvmku_/view?usp=drive_link)
+- 📄 Resume: [Resume]([https://drive.google.com/file/d/1w8LDmNsZyy-4uiVpJWDnvGucwidvmku_/view?usp=drive_link](https://drive.google.com/file/d/1ZX4bAXVlKPv88yc8umJRU9g1B5psm0Ee/view?usp=drive_link))
 - 🌐 My website: [Portfolio | Sweta Sahu](https://sweta-sahu.github.io/Portfolio/)
 
 ### 🚀 Key Technical Achievements
