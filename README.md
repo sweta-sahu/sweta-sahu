@@ -2,7 +2,7 @@
 <p>Passionate graduate student in Computer Science Engineering with a specialization in AI/ML, blending academic excellence with 3 years of professional experience in software development. Dedicated to leveraging Machine Learning, Data Analysis, and API design to create innovative solutions and drive meaningful impact in the tech landscape.</p>
 
 - 🔭 I’m currently pursuing a Master's in Computer Science and Engineering (AI/ML specialization) from University at Buffalo
-- 🌱 I’m currently learning and exploring various Machine Learning and Deep Learning algorithms
+- 🌱 I’m currently learning and exploring various Large Language Models, Retrieval Augmented Generation and Agentic Retrieval Augmented Generation
 - 📫 How to reach me: swetasahu2399@gmail.com
 - 😄 Pronouns: She/Her
 - 📄 Resume: [Resume](https://drive.google.com/file/d/1ZX4bAXVlKPv88yc8umJRU9g1B5psm0Ee/view?usp=drive_link)
