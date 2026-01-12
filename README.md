@@ -1,60 +1,157 @@
-## Hi I'm Sweta Sahu 👋
-<p>Passionate graduate student in Computer Science Engineering with a specialization in AI/ML, blending academic excellence with 3 years of professional experience in software development. Dedicated to leveraging Machine Learning, Data Analysis, and API design to create innovative solutions and drive meaningful impact in the tech landscape.</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sweta%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-- 🔭 I’m currently pursuing a Master's in Computer Science and Engineering (AI/ML specialization) from University at Buffalo
-- 🌱 I’m currently learning and exploring various Large Language Models, Retrieval Augmented Generation and Agentic Retrieval Augmented Generation
-- 📫 How to reach me: swetasahu2399@gmail.com
-- 😄 Pronouns: She/Her
-- 📄 Resume: [Resume](https://drive.google.com/file/d/1ZX4bAXVlKPv88yc8umJRU9g1B5psm0Ee/view?usp=drive_link)
-- 🌐 My website: [Portfolio | Sweta Sahu](https://sweta-sahu.github.io/Portfolio/)
+<h3 align="center">Software Engineer × AI/ML Engineer</h3>
 
-### 🚀 Key Technical Achievements
+<p align="center">
+I design and build <b>scalable software systems</b> and <b>intelligent ML applications</b>,  
+with a strong focus on reliability, explainability, and real-world impact.
+</p>
 
-- ⚙️ Architected AWS-powered ingestion pipeline with **IoT Core**, **Kinesis**, and **S3**, cutting latency by **33%**
-- 🧠 Fine-tuned **T5**, **DistilBERT**, and **LaBSE** for OCR and NLP tasks in health & customer analytics
-- 🧩 Engineered real-time sensor dashboards using **React + NodeJs**, enabling on-the-fly anomaly tracking
-- 🧪 Created end-to-end ML pipelines using **Amazon SageMaker**, **Docker**, and **EC2** for **MaterialsIn**, a Materials Informatics company, to automate the machine learning lifecycle, minimizing manual intervention and accelerating model deployment.
-- 🗃️ Migrated **PostgreSQL** to **MongoDB**, improving query speed by **40%**
-- 🔐 Secured microservices with **Keycloak**, **Cognito**, and OAuth2
+<p align="center">
+📧 <a href="mailto:swetasahu2399@gmail.com">swetasahu2399@gmail.com</a> &nbsp;•&nbsp;
+💼 <a href="https://linkedin.com/in/23-sweta-sahu">LinkedIn</a> &nbsp;•&nbsp;
+🌐 <a href="https://sweta-sahu.github.io/Portfolio/">Portfolio</a>
+</p>
 
-## 💼 Skills
+---
 
-#### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![YAML](https://img.shields.io/badge/-YAML-000000?logo=yaml&logoColor=white)
+## 🎓 Education
 
-#### 📚 Libraries and Frameworks
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-2059F3?logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-671DDF?logo=axios&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black)
+**M.S. in Computer Science & Engineering (AI/ML)**  
+University at Buffalo, SUNY — *Completed December 2025*
 
-#### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+---
 
-#### 🔒 Authentication & Authorization
-![Keycloak](https://img.shields.io/badge/-Keycloak-0071C1?logo=keycloak&logoColor=white) ![AWS Cognito](https://img.shields.io/badge/-AWS%20Cognito-512888?logo=amazonaws&logoColor=white)
+## 🧭 What I Do
 
-#### 🛠️ DevOps and Deployment
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white) ![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?logo=amazonaws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+- Build **backend systems** that scale cleanly and fail gracefully  
+- Develop **ML & LLM-powered applications** that are grounded and explainable  
+- Design **end-to-end systems** where data, models, and infrastructure work as one  
 
-#### 🌐 Cloud Services
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazonaws&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?logo=amazonaws&logoColor=white) ![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?logo=amazonaws&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-232F3E?logo=amazonaws&logoColor=white) ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?logo=amazonaws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-4B612C?logo=amazonaws&logoColor=white) ![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-232F3E?logo=amazonaws&logoColor=white)
+> *Good systems make intelligence usable.*
+
+---
+
+## 🧠 AI / ML Engineering
+
+- Retrieval-Augmented Generation (RAG) & Agentic RAG  
+- LLM workflows with LangChain & LangGraph  
+- Embeddings, clustering, semantic search, evaluation pipelines  
+- Fine-tuning NLP models (T5, DistilBERT, LaBSE)  
+- Production ML pipelines with SageMaker, Docker, CI/CD  
+
+---
+
+## ⚙️ Software & Systems Engineering
+
+- Event-driven architectures on AWS (Lambda, Kinesis, IoT Core)  
+- Scalable REST APIs & microservices (FastAPI, Spring Boot, Node.js)  
+- Distributed systems with Kafka & Redis  
+- Secure systems using Keycloak, Cognito & OAuth2  
+- Zero-downtime database migrations & performance optimization  
+
+---
+
+## 🧬 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,c,cpp" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 
-#### 📊 Big Data Tools  
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)
+---
 
-## 📊 GitHub Activity & Highlights
+### 🧠 AI / ML & GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-<div align="center">
+---
 
-<a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sweta-sahu&theme=tokyonight&hide_border=true" height="150"/>
-</a>
+### 📊 Data Science & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-<a href="https://github.com/sweta-sahu">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sweta-sahu&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
-</a>
+---
 
-<a href="https://github.com/sweta-sahu">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-sahu&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
-</a>
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,flask,redis,kafka" />
+</p>
 
-</div>
+---
+
+### 🗄️ Databases & Vector Stores
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+---
+
+### 🔐 Authentication & Security
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-0071C1?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cognito-512888?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,linux" />
+</p>
+
+---
+
+### 📡 Big Data & Streaming
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+---
+
+## 🌱 Beyond Code
+
+- ✈️ Traveling and exploring new cultures  
+- 🍳 Cooking (especially experimenting with new cuisines)  
+- 💃 Dancing — my favorite way to reset after debugging  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sweta-sahu&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sweta-sahu&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-sahu&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+</p>
