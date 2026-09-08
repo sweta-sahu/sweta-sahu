@@ -241,20 +241,21 @@ Also implemented user-space argument passing, a per-process file-descriptor tabl
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweta-sahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweta-sahu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=sweta-sahu&cc=1a1b27&tc=c0caf5&ic=7aa2f7&bc=1a1b27" height="195" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sweta-sahu&theme=tokyonight" height="195" alt="Top languages by repo" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sweta-sahu&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sweta-sahu&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sweta-sahu&theme=tokyonight" height="180" alt="Most used languages by commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sweta-sahu&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=sweta-sahu&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub trophies" />
 </p>
 
-<details>
-<summary>📈 Contribution graph (snake)</summary>
+### 🐛 Contribution Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sweta-sahu/sweta-sahu/output/github-contribution-grid-snake-dark.svg" />
@@ -262,7 +263,6 @@ Also implemented user-space argument passing, a per-process file-descriptor tabl
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sweta-sahu/sweta-sahu/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-</details>
 
 ---
 
